@@ -41,6 +41,7 @@ Android Studio, Figma, YouGile.
 # Тест-кейсы: SkillCinema (Дымовое тестирование)
 
 Дымовое тестирование (Smoke) направлено на проверку базовой работоспособности приложения (открывается ли оно, листается ли онбординг, загружается ли главный экран).
+
 👉 [Открыть полный набор в Google Docs](https://docs.google.com/spreadsheets/d/1PJgoD5wDUIDmPAz9tlwlliKlfvjYP63E/edit?usp=sharing)
 
 **3. Итоговые документы:**
