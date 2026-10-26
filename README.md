@@ -32,9 +32,7 @@ Android Studio, Figma, YouGile.
 **1. Анализ документации (ТЗ):**
 * [Отчет об ошибках в требованиях (Markdown)](./Requirements_Analysis.md)
 
-**2. Тест-кейсы:**
-* [Детальные тест-кейсы (UI, Функционал, UX)](./Test_Cases.md)
-* [Дымовое тестирование (Smoke)](./Test_Cases_Smoke.md)
+**2. Тест-кейсы SkillCinema :**(./Test_Cases.md)
 
 **3. Итоговые документы:**
 * [Итоговый отчет о тестировании (Markdown)](./Test_Report_SkillCinema.md)
