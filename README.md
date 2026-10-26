@@ -45,4 +45,5 @@ Android Studio, Figma, YouGile.
 👉 [Открыть полный набор в Google Docs](https://docs.google.com/spreadsheets/d/1PJgoD5wDUIDmPAz9tlwlliKlfvjYP63E/edit?usp=sharing)
 
 **3. Итоговые документы:**
+
 👉 [Итоговый отчет о тестировании (Google Docs)](https://docs.google.com/document/d/1meLj8p9yVMVy7hJKuZzpONIwO1ONirFMEQ-byMMKCGk/edit?usp=sharing)
