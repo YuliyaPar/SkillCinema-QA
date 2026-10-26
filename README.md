@@ -32,9 +32,16 @@ Android Studio, Figma, YouGile.
 **1. Анализ документации (ТЗ):**
 * [Отчет об ошибках в требованиях](https://docs.google.com/document/d/1eALLOAjcF32Cau0YmGSi480NKKPz5LXq79kgA0CH1M/edit?usp=sharing)
 
-**2. Тест-кейсы:**
-* [Основной набор тест-кейсов (Markdown)](./Test_Cases.md)
-* [Полный набор тест-кейсов (Google Docs)](https://docs.google.com/spreadsheets/d/1TZJayvxHXa9kUaDoWUkmUNVHW4Qppk6S/edit?usp=sharing)
+# Детальные тест-кейсы: SkillCinema (UI, Функционал, UX)
+
+Ниже представлен расширенный набор тест-кейсов (50 штук) для проверки мобильного приложения. В набор входят проверки логики работы (Функционал), соответствия макетам (UI), пользовательского опыта (UX) и навигации.
+
+👉 [Открыть полный набор в Google Docs](https://docs.google.com/spreadsheets/d/1TZJayvxHXa9kUaDoWUkmUNVHW4Qppk6S/edit?usp=sharing)
+
+# Тест-кейсы: SkillCinema (Дымовое тестирование)
+
+Дымовое тестирование (Smoke) направлено на проверку базовой работоспособности приложения (открывается ли оно, листается ли онбординг, загружается ли главный экран).
+👉 [Открыть полный набор в Google Docs](https://docs.google.com/spreadsheets/d/1PJgoD5wDUIDmPAz9tlwlliKlfvjYP63E/edit?usp=sharing)
 
 **3. Итоговые документы:**
 * [Итоговый отчет о тестировании (Google Docs)](https://docs.google.com/document/d/1meLj8p9yVMVy7hJKuZzpONIwO1ONirFMEQ-byMMKCGk/edit?usp=sharing)
