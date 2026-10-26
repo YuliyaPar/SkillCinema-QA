@@ -37,3 +37,6 @@ Android Studio, Figma, YouGile.
 
 **3. Итоговые документы:**
 * [Итоговый отчет о тестировании (Markdown)](./Test_Report_SkillCinema.md)
+
+* **4. Примеры баг-репортов:**
+* [Посмотреть примеры багов (Markdown)](./Bug_Reports_SkillCinema.md)
