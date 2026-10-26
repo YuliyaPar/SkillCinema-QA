@@ -14,4 +14,4 @@
 
 Дымовое тестирование (Smoke) направлено на проверку базовой работоспособности приложения (открывается ли оно, листается ли онбординг, загружается ли главный экран).
 
-👉 [Открыть таблицу с тест-кейсами (Google Docs)](https://docs.google.com/spreadsheets/d/1PJgoD5wDUDmPAz9tLwLLiKlfvjYP63E/edit?usp=sharing)
+👉 [Открыть таблицу с тест-кейсами (Google Docs)](https://docs.google.com/spreadsheets/d/1PJgoD5wDUIDmPAz9tlwlliKlfvjYP63E/edit?usp=sharing)
