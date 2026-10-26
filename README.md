@@ -30,7 +30,8 @@ Android Studio, Figma, YouGile.
 В ходе работы над проектом было проведено тестирование мобильного приложения. Ниже представлены ссылки на документацию.
 
 **1. Анализ документации (ТЗ):**
-* [Отчет об ошибках в требованиях](https://docs.google.com/document/d/1eALLOAjcF32CauOYmGSIi48ONKKPz5LXq79kgAOCH1M/edit?usp=sharing)
+
+👉 [Отчет об ошибках в требованиях](https://docs.google.com/document/d/1eALLOAjcF32CauOYmGSIi48ONKKPz5LXq79kgAOCH1M/edit?usp=sharing)
 
 # Детальные тест-кейсы: SkillCinema (UI, Функционал, UX)
 
