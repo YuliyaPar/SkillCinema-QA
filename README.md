@@ -29,8 +29,13 @@ Android Studio, Figma, YouGile.
 
 В ходе работы над проектом было проведено тестирование мобильного приложения. Ниже представлены ссылки на документацию.
 
-**1. Тест-кейсы:**
-* [Полный набор тест-кейсов (Google Docs)](ВСТАВЬТЕ_ССЫЛКУ_НА_ТЕСТ_КЕЙСЫ)
+**1. Анализ документации (ТЗ):**
+* [Отчет об ошибках в требованиях (Markdown)](./Requirements_Analysis.md)
+* [Оригинал документа (Google Docs)](https://docs.google.com/document/d/1eALLOAjcF32Cau0YmGSi480NKKPz5LXq79kgA0CH1M/edit?usp=sharing)
 
-**2. Итоговые документы:**
-* [Итоговый отчет о тестировании (Google Docs)](ВСТАВЬТЕ_ССЫЛКУ_НА_ОТЧЕТ)
+**2. Тест-кейсы:**
+* [Основной набор тест-кейсов (Markdown)](./Test_Cases.md)
+* [Полный набор тест-кейсов (Google Docs)](https://docs.google.com/spreadsheets/d/1TZJayvxHXa9kUaDoWUkmUNVHW4Qppk6S/edit?usp=sharing)
+
+**3. Итоговые документы:**
+* [Итоговый отчет о тестировании (Google Docs)](https://docs.google.com/document/d/1meLj8p9yVMVy7hJKuZzpONIwO1ONirFMEQ-byMMKCGk/edit?usp=sharing)
