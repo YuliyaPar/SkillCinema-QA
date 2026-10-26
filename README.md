@@ -37,5 +37,4 @@ Android Studio, Figma, YouGile.
 * [Полный набор тест-кейсов (Google Docs)](https://docs.google.com/spreadsheets/d/1TZJayvxHXa9kUaDoWUkmUNVHW4Qppk6S/edit?usp=sharing)
 
 **3. Итоговые документы:**
-* [Итоговый отчет о тестировании (Markdown)](./Test_Report_SkillCinema.md)
-* [Итоговый отчет о тестировании (Google Docs)](ВСТАВЬТЕ_ССЫЛКУ_НА_ВАШ_GOOGLE_DOC_С_ОТЧЕТОМ)
+* [Итоговый отчет о тестировании (Google Docs)](https://docs.google.com/document/d/1meLj8p9yVMVy7hJKuZzpONIwO1ONirFMEQ-byMMKCGk/edit?usp=sharing)
